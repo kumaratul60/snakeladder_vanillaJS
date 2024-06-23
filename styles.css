@@ -1,0 +1,22 @@
+/* Canvas styles */
+canvas {
+  border: 1px solid black;
+  display: block;
+  margin: auto;
+  background-color: #f0f0f0;
+}
+
+/* Leaderboard styles */
+#leaderboard {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#highScoresList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#highScoresList li {
+  margin-bottom: 10px;
+}
